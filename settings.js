@@ -36,30 +36,30 @@ lolkey = '2f73fe5296d00f4fb394a468'
 frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
-global.vcardowner = ['6281236167286'], ['6281236167286'] //number
-global.allpay = "081236167286" // nomor pertama / first number donate
-global.allpay2 = "081236167286" // nomor ke dua /second number donate
-global.ownername = "𝐑. 𝐒𝐙 - MD" //owner
-global.email = "📧 4ksanzz@gmail.com" //email
-global.website = "⚙️ Github : 4ksanzz" //github name
+global.vcardowner = ['62895634865955'] //number
+global.allpay = "082284899110" // nomor pertama / first number donate
+global.allpay2 = "-" // nomor ke dua /second number donate
+global.ownername = "Langz" //owner
+global.email = "📧 botzlang1@gmail.com" //email
+global.website = "⚙️ Github : GilangSan" //github name
 global.location = "🌍 Isekai, Taman Hiburan Para Loli, Pemandian Umum Wanita" //location
-global.roblox = "👾 Youtube : @4KSanzz" //roblox
-global.ig = "👑 Instagram : @4k.sanzz" //insta
-global.tg = "💙 Telegram : @sanzz4k" //telegram
+global.roblox = "👾 Youtube : @WoolCream" //roblox
+global.ig = "👑 Instagram : @woolcream" //insta
+global.tg = "💙 Telegram : -" //telegram
 
 //bot bomdy 
-global.owner = ['6281236167286'], ['6285960348665']
-global.ownernomer = "𝐑. 𝐒𝐙✨" //ur number
-global.ownertag = '6281236167286' //ur tag number
-global.botname = '𝐑. 𝐒𝐙 - MD' //ur bot name
+global.owner = ['62895634865955'], ['6285960348665']
+global.ownernomer = "62895634865955" //ur number
+global.ownertag = '62895634865955' //ur tag number
+global.botname = 'LangBotz' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/@4KSanzz" //ur website to be displayed
-global.botscript = 'https://github.com/4ksanzz' //script link
-global.reactmoji = "⚡" //ur menu react emoji
-global.themeemoji = "⚡" //ur theme emoji
-global.packname = "𝐑. 𝐒𝐙" //ur sticker watermark packname
-global.author = "√" //ur sticker watermark author
-global.wm = "4K SANZZ" //ur watermark
+global.websitex = "https://youtube.com/-" //ur website to be displayed
+global.botscript = 'https://github.com/GilangSan' //script link
+global.reactmoji = "😁" //ur menu react emoji
+global.themeemoji = "😁" //ur theme emoji
+global.packname = "Sticker By" //ur sticker watermark packname
+global.author = "LangBotz" //ur sticker watermark author
+global.wm = "© LangBotz" //ur watermark
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
@@ -68,7 +68,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/thumb.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281236167286'] //ur premium numbers
+global.premium = ['62895634865955'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -111,7 +111,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 6,
+    free: 25,
     monayawal: 1000
 }
    global.rpg = {
